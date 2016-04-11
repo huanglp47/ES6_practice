@@ -1,0 +1,1 @@
+{"version":3,"sources":["es6_module.js"],"names":[],"mappings":";;;;;;;;AAGA,IAAI,IAAI,GAAG,SAAS,CAAC;AACrB,IAAI,GAAG,GAAC,IAAI,CAAC;QACL,IAAI,GAAJ,IAAI;QAAE,GAAG,GAAH,GAAG","file":"es6_module-compiled.js","sourcesContent":["/**\r\n * Created by Administrator on 2016/4/6.\r\n */\r\nvar name = 'Rainbow';\r\nvar age='24';\r\nexport {name, age};"]}

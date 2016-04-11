@@ -1,0 +1,1 @@
+{"version":3,"sources":["es6_import.js"],"names":[],"mappings":";;;;;;;4BAKwB,eAAe","file":"es6_import-compiled.js","sourcesContent":["/**\r\n * Created by Administrator on 2016/4/6.\r\n */\r\n\r\n//babel + browserify 来打包就行了\r\nimport {name, age} from 'es6_module.js'"]}
